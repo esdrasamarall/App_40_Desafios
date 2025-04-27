@@ -10,7 +10,7 @@ A proposta é simples e direta: conforme avanço na resolução dos desafios, el
 
 * **Coleção de Desafios:** Acesso direto aos desafios de JavaScript que foram desenvolvidos inicialmente em um repositório dedicado.
 * **Renderização Aleatória:** Ao iniciar o aplicativo, um desafio é apresentado de forma aleatória, incentivando a prática constante e a revisão de diferentes temas.
-* ****Veja o Resultado:** Um botão dedicado permite visualizar a solução ou o resultado do desafio exibido, facilitando o aprendizado e a compreensão.
+* **Veja o Resultado:** Um botão dedicado permite visualizar a solução ou o resultado do desafio exibido, facilitando o aprendizado e a compreensão.
 * **Integração Contínua:** Novos desafios serão adicionados ao aplicativo à medida que forem sendo resolvidos e implementados.
 
 ## Tecnologias Utilizadas
